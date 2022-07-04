@@ -50,7 +50,11 @@ export default function Weather() {
         </div>
       </div>
       <div className="small">
-        <a href="https://github.com/marialauradinis" target="_blank">
+        <a
+          href="https://github.com/marialauradinis"
+          target="_blank"
+          alt="github page"
+        >
           Open-source code
         </a>
         , by Laura Dinis
