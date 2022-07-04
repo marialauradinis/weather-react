@@ -53,7 +53,7 @@ export default function Weather() {
         <a
           href="https://github.com/marialauradinis"
           target="_blank"
-          alt="github page"
+          rel="author"
         >
           Open-source code
         </a>
